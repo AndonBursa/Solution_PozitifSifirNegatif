@@ -49,7 +49,8 @@ namespace VizeveFinal
             {
                 Console.WriteLine("Notunuz FF ve Tebrikler ");
             }
-            Console.WriteLine("Çıkmak için br tuşa basınız ");
+            Console.WriteLine("Çıkmak için 2 kez bir tuşa basınız ");
+            Console.ReadKey();
             Console.ReadKey();
         }
     }
